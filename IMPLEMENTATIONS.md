@@ -66,6 +66,7 @@ These tools are not endorsed by the OAI.
 | ------|--------------|----------|-------------|
 | Schemathesis   | [github/schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) | Python | A modern API testing tool for web applications built with OpenAPI and GraphQL specifications |
 | Tcases for OpenAPI   | [github/Cornutum/tcases](https://github.com/Cornutum/tcases/blob/master/tcases-openapi/README.md#tcases-for-openapi-from-rest-ful-to-test-ful) | Java | Generates test cases directly from an OpenAPI 3.0.X definition. Creates tests executable using various test frameworks. Bonus: Semantic linter reports elements that are inconsistent, superfluous, or dubious. |
+| Oxygen OpenAPI Tester   | [OpenAPI Tester Plugin](https://www.oxygenxml.com/doc/ug-editor/topics/openapi-tester-x.html) | Java | Oxygen includes a GUI interface testing tool for OpenAPI files. The tool provides the ability to execute API requests and validate responses on the fly to ensure that they work as expected. It can be used for OpenAPI files in JSON or YAML format. The tool is available in the Tools->JSON Tools menu. It requires an add-on to be installed but you have the option to automatically install it the first time you select the tool. |
 
 #### Server Implementations
 
