@@ -41,6 +41,7 @@ These tools are not endorsed by the OAI.
 | SwaggerHub | [swaggerhub.com](https://swaggerhub.com) | | API Design and Documentation Platform, Built For Teams
 | swagger-editor | [github/swagger-api](https://github.com/swagger-api/swagger-editor) | JavaScript | Web-Based editor for creating, editing, validating and testing OpenAPI\Swagger definitions |
 | Remain OpenAPI Studio | Direct download: https://remainsoftware.com/extranet/download-type/openapi-studio-download <br> Or via Eclipse MarketPlace https://marketplace.eclipse.org/content/openapi-studio-rich-oas3-editor | Java | A user-friendly, visually rich studio supporting all features defined by the OpenAPI 3. Easy but powerful UI-based components creation, API testing, import, export, code generation and much more. |
+| Oxygen OpenAPI Editor | [OpenAPI (Swagger) Editor](https://www.oxygenxml.com/xml_editor/openapi.html#openapi-editor) | Java | OpenAPI documents can be edited in the Oxygen Text mode, but a built-in framework also renders OpenAPI (Swagger) documents in the Author visual editing mode. The framework is an extension of the JSON framework. When opening a detected OpenAPI document in Author mode, you have access to some form controls, collapsible sections, and other features that help you to visualize and edit these documents. |
 
 #### User Interfaces
 
@@ -107,3 +108,6 @@ These tools are not endorsed by the OAI.
 .NET-C#-Annotations | [github/Microsoft/OpenAPI-NET-CSharpAnnotations](https://github.com/Microsoft/OpenAPI.NET.CSharpAnnotations) | dotnet | Convert your native C# comments/annotation XML from your API code into a OpenAPI document object. |
 | Object Oriented OpenAPI Specification | [github/goldspecdigital/oooas](https://github.com/goldspecdigital/oooas) | PHP | Generates OpenAPI documents using PHP. |
 | swac | [github.com/swaggest/swac](https://github.com/swaggest/swac) | PHP, Go | Generates clients for Go and PHP from OpenAPI 2/3. |
+| Oxygen OpenAPI Documentation | [OpenAPI Documentation Generator](https://www.oxygenxml.com/doc/ug-editor/topics/openapi-documentation-generator.html) | Java | Oxygen includes an OpenAPI Documentation generator tool that helps you to easily generate full documentation for OpenAPI components in HTML format, including comprehensive annotations and cross references. The documentation displays information about the servers, paths, components and tags defined in the OpenAPI documents. It also includes the JSON schema documentation for the components along with the diagram image for each component generated according to specified options. You can select which components are shown in your output after the OpenAPI documentation is generated. |
+
+
